@@ -1,0 +1,8 @@
+
+Esquid:S1700"Rename field "inMemoryDB"(εδ‰H$RMAJORZ
+CODE_SMELL
+"squid:ClassVariableVisibilityCheck"VMake inMemoryDB a static final constant or non-public and provide accessors if needed.(εδ‰H%RMINORZVULNERABILITY
+_squid:S1444"0Make this "public static inMemoryDB" field final(εδ‰H&RMINORZVULNERABILITY
+Lsquid:S2386"Make this member "protected".(εδ‰H'RMINORZVULNERABILITY
+fsquid:S1118":Add a private constructor to hide the implicit public one.(”°©…H(RMAJORZ
+CODE_SMELL

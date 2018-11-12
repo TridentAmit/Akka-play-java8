@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="model.ProfileReadHealthCheckResponse"/>
+<fullyQualifiedTypeName name="com.typesafe.config.Config"/>
+<fullyQualifiedTypeName name="enums.ConfigurationKey"/>
+<fullyQualifiedTypeName name="play.mvc.Controller"/>
+<fullyQualifiedTypeName name="com.google.common.base.Supplier"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.lang.Throwable"/>
+<fullyQualifiedTypeName name="util.FunctionalUtility"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CompletionStage"/>
+<fullyQualifiedTypeName name="model.ProfileReadResponse"/>
+<fullyQualifiedTypeName name="com.google.inject.Inject"/>
+<fullyQualifiedTypeName name="play.mvc.Results"/>
+<fullyQualifiedTypeName name="play.api.http.HttpErrorHandler"/>
+<fullyQualifiedTypeName name="scala.concurrent.Future"/>
+<fullyQualifiedTypeName name="play.api.mvc.RequestHeader"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CompletableFuture"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.model.core.ErrorHandler"/>
+<fullyQualifiedTypeName name="handlers.ErrorHandler"/>
+<fullyQualifiedTypeName name="play.mvc.Http.RequestHeader"/>
+<fullyQualifiedTypeName name="play.mvc.Http"/>
+<fullyQualifiedTypeName name="play.mvc.Result"/>
+<fullyQualifiedTypeName name="play.api.mvc.Result"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="play.libs.Json"/>
+<fullyQualifiedTypeName name="model.ErrorResponse"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonNode"/>
+<fullyQualifiedTypeName name="org.hamcrest.core.IsInstanceOf"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+</qualifiedTypeNameHistroy>

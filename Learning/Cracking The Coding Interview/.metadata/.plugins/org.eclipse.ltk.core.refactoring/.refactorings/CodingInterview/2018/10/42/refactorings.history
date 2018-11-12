@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;remainder&apos; in &apos;arrays_strings.A.calculateRemainders(...)&apos; to &apos;remaining_grams&apos;&#x0A;- Original project: &apos;CodingInterview&apos;&#x0A;- Original element: &apos;arrays_strings.A.calculateRemainders(int[], int[]).remainder&apos;&#x0A;- Renamed element: &apos;remainder&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;remainder&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;arrays_strings{A.java[A~calculateRemainders~\[I~\[I@remainder!790!835!796!804!\[I!0!false" name="remaining_grams" references="true" stamp="1540060963538" version="1.0"/>
+</session>

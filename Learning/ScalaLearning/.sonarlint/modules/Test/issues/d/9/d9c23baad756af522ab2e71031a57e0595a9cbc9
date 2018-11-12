@@ -1,0 +1,86 @@
+
+œsquid:S1488Î"bImmediately return this expression instead of assigning it to the temporary variable "httpclient".(Ç¥úüÿÿÿÿ8å“òÒŞ,H¬RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(¼ø°8å“òÒŞ,H­RMAJORZ
+CODE_SMELL
+r
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8å“òÒŞ,H®RMAJORZ
+CODE_SMELL
+r
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(†åä†ùÿÿÿÿ8å“òÒŞ,H¯RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(Ì¿’ûúÿÿÿÿ8å“òÒŞ,H°RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(ëî‘Ì8å“òÒŞ,H±RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8å“òÒŞ,H²RMAJORZ
+CODE_SMELL
+m
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ûÀ´„8å“òÒŞ,H³RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(‰ÎĞ±şÿÿÿÿ8å“òÒŞ,H´RMAJORZ
+CODE_SMELL
+r
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(©«Îïûÿÿÿÿ8å“òÒŞ,HµRMAJORZ
+CODE_SMELL
+r
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ËÉâÖøÿÿÿÿ8å“òÒŞ,H¶RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄäÊöûÿÿÿÿ8å“òÒŞ,H·RMAJORZ
+CODE_SMELL
+m
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(•ô±´8å“òÒŞ,H¸RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8å“òÒŞ,H¹RMAJORZ
+CODE_SMELL
+r
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(á‹ìßøÿÿÿÿ8å“òÒŞ,HºRMAJORZ
+CODE_SMELL
+m
+squid:S106’"9Replace this use of System.out or System.err by a logger.(êôÉÂ8å“òÒŞ,H»RMAJORZ
+CODE_SMELL
+m
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(ŠÏ“Ï8å“òÒŞ,H¼RMAJORZ
+CODE_SMELL
+òsquid:S1598"µThis file "SiteminderConnection.java" should be located in "com/metlife/gsp/colombia/batch" directory, not in "/Users/amitkumar/Documents/WorkSpace/Learning/ScalaLearning/Test/src".(Ñ×Êøÿÿÿÿ8å“òÒŞ,H½RCRITICALZ
+CODE_SMELL
+œsquid:S1488®"bImmediately return this expression instead of assigning it to the temporary variable "sslcontext".(™øĞıøÿÿÿÿ8å“òÒŞ,H¾RMINORZ
+CODE_SMELL
+r
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8å“òÒŞ,H¿RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(ŞĞ×ûùÿÿÿÿ8å“òÒŞ,HÀRMAJORZ
+CODE_SMELL
+r
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8å“òÒŞ,HÁRMAJORZ
+CODE_SMELL
+r
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8å“òÒŞ,HÂRMAJORZ
+CODE_SMELL
+r
+squid:S106”"9Replace this use of System.out or System.err by a logger.(Ï¢ÅÊşÿÿÿÿ8å“òÒŞ,HÃRMAJORZ
+CODE_SMELL
+r
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(«Ÿ¯üÿÿÿÿ8å“òÒŞ,HÄRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ¨‚‹üÿÿÿÿ8å“òÒŞ,HÅRMAJORZ
+CODE_SMELL
+m
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(À–áÄ8å“òÒŞ,HÆRMAJORZ
+CODE_SMELL
+’squid:S1488¾"]Immediately return this expression instead of assigning it to the temporary variable "sslsf".(‰Êˆ¾8å“òÒŞ,HÇRMINORZ
+CODE_SMELL
+r
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8å“òÒŞ,HÈRMAJORZ
+CODE_SMELL
+r
+squid:S106€"9Replace this use of System.out or System.err by a logger.(¡ó¢šùÿÿÿÿ8å“òÒŞ,HÉRMAJORZ
+CODE_SMELL
+“squid:S2068N"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(ô÷•„ûÿÿÿÿ8å“òÒŞ,HÊRBLOCKERZVULNERABILITY
+l
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(ì«”x8å“òÒŞ,HËRMAJORZ
+CODE_SMELL

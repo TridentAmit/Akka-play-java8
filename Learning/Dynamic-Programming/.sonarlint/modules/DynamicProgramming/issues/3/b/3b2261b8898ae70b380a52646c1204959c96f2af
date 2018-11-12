@@ -1,0 +1,8 @@
+
+wsquid:S3358	"DExtract this nested ternary operation into an independent statement.(๙ถ8า—ีก,HRMAJORZ
+CODE_SMELL
+squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(พ๚ฅ๋๘ÿÿÿÿHRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(“๑บ8ใ’–ีก,HRMAJORZ
+CODE_SMELL

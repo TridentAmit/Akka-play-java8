@@ -1,0 +1,12 @@
+package arrays_strings;
+
+public class Test1 {
+	static void doIt(int x, int y,int m) {
+		if(x ==5) m = y;
+		else m =x;
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

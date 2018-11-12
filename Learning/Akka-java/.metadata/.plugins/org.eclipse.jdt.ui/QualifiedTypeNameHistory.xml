@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="akka.event.Logging"/>
+<fullyQualifiedTypeName name="com.sun.javafx.binding.Logging"/>
+<fullyQualifiedTypeName name="akka.event.LoggingAdapter"/>
+<fullyQualifiedTypeName name="edu.learn.util.InMemoryDB"/>
+<fullyQualifiedTypeName name="scala.PartialFunction"/>
+<fullyQualifiedTypeName name="akka.actor.AbstractActor"/>
+<fullyQualifiedTypeName name="akka.japi.pf.ReceiveBuilder"/>
+<fullyQualifiedTypeName name="views.html.main"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CompletionStage"/>
+<fullyQualifiedTypeName name="akka.actor.ActorSystem"/>
+<fullyQualifiedTypeName name="akka.actor.Props"/>
+<fullyQualifiedTypeName name="akka.actor.ActorRef"/>
+</qualifiedTypeNameHistroy>

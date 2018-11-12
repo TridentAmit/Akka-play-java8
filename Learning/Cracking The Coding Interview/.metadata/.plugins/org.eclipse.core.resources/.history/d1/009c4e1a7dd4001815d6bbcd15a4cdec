@@ -1,0 +1,11 @@
+package arrays_strings;
+
+public class Test1 {
+	static void doIt(int x, int y,int j) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

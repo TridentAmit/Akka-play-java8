@@ -1,0 +1,25 @@
+
+isquid:S1854	"5Remove this useless assignment to local variable "m".(Êº¡è8š¨æé,HëRMAJORZ
+CODE_SMELL
+„squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(˜³˜WHåRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ8‚ùéé,HïRMAJORZ
+CODE_SMELL
+Ssquid:S1659"Declare "k" on a separate line.(ƒ‘Î8‚ùéé,HîRMINORZ
+CODE_SMELL
+Ssquid:S1659"Declare "j" on a separate line.(ƒ‘Î8‚ùéé,HíRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Âµ˜O8¬‹‹‘é,HüRMAJORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "m".(—ƒ§¼şÿÿÿÿ8š¨æé,HêRMAJORZ
+CODE_SMELL
+ksquid:S1226	">Introduce a new variable instead of reusing the parameter "m".(Êº¡è8š¨æé,HèRMINORZBUG
+psquid:S1226">Introduce a new variable instead of reusing the parameter "m".(—ƒ§¼şÿÿÿÿ8š¨æé,HéRMINORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ñ‰Éøÿÿÿÿ8¬‹‹‘é,HûRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Âµ˜O8‡ÈŒ‘é,HıRMAJORZ
+CODE_SMELL

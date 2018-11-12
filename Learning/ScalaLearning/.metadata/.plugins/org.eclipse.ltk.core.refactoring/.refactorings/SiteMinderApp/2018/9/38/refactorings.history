@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SiteMinderApp/src/main/java/com/metlife/gsp/colombia/batch/App.java&apos; to &apos;SiteminderConnection.java&apos;" description="Rename resource &apos;App.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/metlife/gsp/colombia/batch/App.java" name="SiteminderConnection.java" stamp="1537239951475" updateReferences="true"/>
+</session>

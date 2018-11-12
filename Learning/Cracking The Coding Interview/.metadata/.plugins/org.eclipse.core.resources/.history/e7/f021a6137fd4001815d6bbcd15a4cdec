@@ -1,0 +1,21 @@
+package arrays_strings;
+
+public class A {
+	int i = 1;
+	{
+		i = 2;
+	}
+	A(){
+		this.i = 1;
+	}
+	A(int i){
+		this.i = i;
+	}
+	public void print() {
+		System.out.println(i);
+	}
+	public static void main(String[] args) {
+		new A().print();
+		new A(5).print();
+	}
+}

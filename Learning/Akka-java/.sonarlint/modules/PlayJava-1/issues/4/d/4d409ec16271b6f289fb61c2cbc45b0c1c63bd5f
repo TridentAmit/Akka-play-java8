@@ -1,0 +1,8 @@
+
+‚squid:S4144"VUpdate this method so that its implementation is not identical to "getName" on line 9.(Æì¡ÆH!RMAJORZ
+CODE_SMELL
+‡squid:S4144"VUpdate this method so that its implementation is not identical to "getName" on line 9.(ÝÝóßøÿÿÿÿH"RMAJORZ
+CODE_SMELL
+usquid:S1192
+"GDefine a constant instead of duplicating this literal "Tanuja" 3 times.(Ú»™@H#RCRITICALZ
+CODE_SMELL

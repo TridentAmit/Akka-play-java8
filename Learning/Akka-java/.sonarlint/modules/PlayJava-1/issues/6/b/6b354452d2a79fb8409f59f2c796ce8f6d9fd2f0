@@ -1,0 +1,19 @@
+
+i
+squid:S106"9Replace this use of System.out or System.err by a logger.(ζµ‡άψÿÿÿÿH[RMAJORZ
+CODE_SMELL
+i
+squid:S106"9Replace this use of System.out or System.err by a logger.(πΈ ªϋÿÿÿÿHaRMAJORZ
+CODE_SMELL
+]squid:S1602",Remove useless curly braces around statement(Òλ΄νύÿÿÿÿH\RMINORZ
+CODE_SMELL
+i
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ε­ΛέϊÿÿÿÿH_RMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΈχΒψÿÿÿÿ8Υ‡ίγΤ,HhRMAJORZ
+CODE_SMELL
+fsquid:UnusedPrivateMethod"'Remove this unused private "m1" method.(ωοϋÿÿÿÿHbRMAJORZ
+CODE_SMELL
+]squid:S1612",Replace this lambda with a method reference.(Òλ΄νύÿÿÿÿHcRMINORZ
+CODE_SMELL

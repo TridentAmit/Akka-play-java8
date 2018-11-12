@@ -1,0 +1,17 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(››þÿÿÿÿ8ŸñûÆç,HÚRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(••îø8Åè¹Åç,HÛRMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "m2".(­ðñš8ŸñûÆç,HÜRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥³á¹ûÿÿÿÿ8Åè¹Åç,HÝRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "m2" local variable.(­ðñš8ŸñûÆç,HÞRMINORZ
+CODE_SMELL
+„squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(˜³˜WHßRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§¼Þúÿÿÿÿ8«éÎÆç,HàRMAJORZ
+CODE_SMELL

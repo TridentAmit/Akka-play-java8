@@ -1,0 +1,20 @@
+
+¿%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8˜—¹¬Ú,HçRMINORZ
+CODE_SMELL
+esquid:S1612/",Replace this lambda with a method reference.(ÖÑ÷âùÿÿÿÿ8¢‹«Ú,HèRMINORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(·ƒôÕúÿÿÿÿHéRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(„«‰8ùÁ”­Ú,HêRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ú†úÿÿÿÿ8ãöĞ«Ú,HëRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ÃÚéûÿÿÿÿ8¢‹«Ú,HìRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(òµŞ®8æï«Ú,HíRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰ÊÕˆşÿÿÿÿ8´—¾­Ú,HîRMAJORZ
+CODE_SMELL

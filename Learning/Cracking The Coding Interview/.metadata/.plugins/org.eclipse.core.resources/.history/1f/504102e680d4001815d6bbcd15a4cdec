@@ -1,0 +1,36 @@
+package arrays_strings;
+
+public class A {
+	int i = 1;
+	{
+		i = 2;
+	}
+	A(){
+		this.i = 3;
+	}
+	A(int i){
+		this.i = i;
+	}
+	public void print() {
+		System.out.println(i);
+	}
+	public static void main(String[] args) {
+		new A().print();
+		new A(5).print();
+		String s = "";
+		for(int i = 0;i<100;i++) {
+			s += String.valueOf(i);
+		}
+		System.out.println(s);
+	}
+	public static void printer(int a) {
+		for(int i = 1;i<3;i++) {
+			for(int j = 1;j<3;j++) {
+				if(a==5) {
+					break;
+				}
+				System.out.println(i*j);
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+
+squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(°Š£Ú8‚ÁèÈä,HöRMAJORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(·ƒôÕúÿÿÿÿHðRMINORZ
+CODE_SMELL
+‡squid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ñô•Ã8ÚÍÃÊä,HRMINORZ
+CODE_SMELL
+Ysquid:S2201 "'The return value of "map" must be used.(„žØ‡øÿÿÿÿ8»®áÈä,HñRMAJORZBUG
+`squid:S1602",Remove useless curly braces around statement(ˆúÀ¼8öÒ“Ää,HŒRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(øï­îýÿÿÿÿ8ÊÍ«Óä,H RMAJORZ
+CODE_SMELL
+Tsquid:S22015"'The return value of "map" must be used.(ß’¬8é™°Óä,HªRMAJORZBUG
+hsquid:S1611"/Remove the parentheses around the "x" parameter(Ê˜—äúÿÿÿÿ8öÒ“Ää,HRMINORZ
+CODE_SMELL
+hsquid:S1611"/Remove the parentheses around the "y" parameter(Ê˜—äúÿÿÿÿ8öÒ“Ää,HŽRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê˜—äúÿÿÿÿ8öÒ“Ää,H‹RMAJORZ
+CODE_SMELL
+‡squid:S16023"SRemove useless curly braces around statement and then remove useless return keyword(Œ‰“Ù8ËÍ«Óä,H¡RMINORZ
+CODE_SMELL

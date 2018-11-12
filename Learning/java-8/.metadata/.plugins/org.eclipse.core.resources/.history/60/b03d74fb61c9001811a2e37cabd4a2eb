@@ -1,0 +1,64 @@
+package compStage;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.CompletionStage;
+
+public class ThenCombine {
+	public static void main(String[] args) {
+		combineResult(getNameList(), getPhoneList(), getBloodGroupList()).thenAccept((Optional<List<String>> arg0)->{
+			arg0.ifPresent((x)->x.forEach((y)->System.out.println("Values :"+y)));
+		});
+		
+	}
+	static CompletionStage<Optional<List<String>>> getNameList() {
+			return CompletableFuture.supplyAsync(()->Optional.of(new ArrayList<String>(Arrays.asList("Amit","Tanuja","Trishul")))
+		);
+	}
+	static CompletionStage<Optional<List<String>>> getPhoneList() {
+			return CompletableFuture.supplyAsync(()->Optional.of(new ArrayList<String>(Arrays.asList("8056993908","8056993903","8056993904")))
+		);
+	}
+	static CompletionStage<Optional<List<String>>> getBloodGroupList() {
+			return CompletableFuture.supplyAsync(()->Optional.of(new ArrayList<String>(Arrays.asList("O+ve","B+ve","B+ve")))
+		);
+	}
+	static CompletionStage<Optional<List<String>>> combineResult(CompletionStage<Optional<List<String>>> one,CompletionStage<Optional<List<String>>> two,CompletionStage<Optional<List<String>>> three) {
+		return one.thenCombine(two, (oneR,twoR)->{
+			System.out.println("At oneR :"+oneR.get());
+			return oneR.map((List<String> listOne)->{
+				twoR.map((List<String> listTwo)->{
+				 listOne.addAll(listTwo);
+				 return listOne;
+				});
+				return (listOne);
+		});
+			
+			
+			
+			
+			
+//			List<String> result1 = new ArrayList<>();
+//			if(oneR.isPresent()) {
+//				result1.addAll(oneR.get());
+//			}
+//			if(twoR.isPresent()) {
+//				result1.addAll(twoR.get());
+//			}
+//			return Optional.of(result1);
+		}).thenCombine(three, (oneTwoR,threeR) ->{
+			List<String> result = new ArrayList<>();
+			if(oneTwoR.isPresent()) {
+				result.addAll(oneTwoR.get());
+			}
+			if(threeR.isPresent()) {
+				result.addAll(threeR.get());
+			}
+			return Optional.of(result);
+		});
+	}
+
+}

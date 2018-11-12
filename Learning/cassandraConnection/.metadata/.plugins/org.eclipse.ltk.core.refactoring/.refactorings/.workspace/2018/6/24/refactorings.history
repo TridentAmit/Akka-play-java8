@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;my-app&apos; to &apos;cassandraConnection&apos;" description="Rename resource &apos;my-app&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/my-app" name="cassandraConnection" stamp="1528661157693" updateReferences="true"/>
+</session>
