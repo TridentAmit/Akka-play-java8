@@ -23,7 +23,6 @@ public class HelloController {
 		try {
 			uri = new URI("http://gturnquist-quoters.cfapps.io/api/random");
 		} catch (URISyntaxException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
     	String string = restTemplate.getForObject(uri, String.class);
